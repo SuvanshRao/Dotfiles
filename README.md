@@ -8,3 +8,6 @@ Other things used
       cmatrix : https://github.com/abishekvashok/cmatrix
       tty-clock : https://github.com/xorg62/tty-clock
       Font used is 'Fira Code Nerd Font' 
+
+
+wallpaper is https://github.com/SuvanshRao/dotfiles/blob/main/bicyclecity.jpg
